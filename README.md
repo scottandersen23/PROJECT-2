@@ -7,7 +7,7 @@
 ### We are looking at the trends in the US economy and the impact when a natural disasters occur. Comparing the effect on individual sector jumps at 2.5% to normal standard deviation since 2000.
 
 ![2020](./images/GDP_chart.png)
-
+![agg](./images/GDP_Sectors_20yrs.png)
 ***" When is the right time to buy? "***
 
 ## **Sectors and Disasters**
